@@ -48,7 +48,7 @@ If you find our work useful, please cite our related paper:
 # ICML 2025
 @inproceedings{dai2025vbcgcd,
   title={Continual Generalized Category Discovery: Learning and Forgetting from a Bayesian Perspective},
-  author={Dai, Hao and Jagmohan, Chauhan},
+  author={Dai, Hao and Chauhan, Jagmohan},
   booktitle={Proceedings of the 42nd International Conference on Machine Learning (ICML)},
   year={2025}
 }
