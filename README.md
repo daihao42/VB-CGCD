@@ -8,7 +8,7 @@ Learning and Forgetting from a Bayesian Perspective</h2>
 
 University College London
 
-Universityof Southampton
+University of Southampton
 
 [![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
